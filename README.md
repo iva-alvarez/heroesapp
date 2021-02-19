@@ -1,1 +1,1 @@
-proyecto donde se muestran algunos heroes de dc y marvel , cada uno al pulsarlo posee una descripcion mas amplia del heroe, tambien posee una seccion donde podemos buscar heroes, para entrar en la pagina se simula una autenticacion.
+## SPA realizada con React, en donde se muestran algunos heroes de Dc y marvel, con opcion de búsqueda y autentificacion similada de usuarios.  
